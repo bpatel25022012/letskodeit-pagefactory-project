@@ -1,0 +1,6 @@
+2020-04-19 11:04:326 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-19 11:04:703 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (c5bd90f0bfdb9984b51659f40541d691)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-19 11:04:304 INFO  LoginPage :25 - Getting text from [[ChromeDriver: chrome on WINDOWS (c5bd90f0bfdb9984b51659f40541d691)] -> xpath: //h1[@class='text-center']]
+2020-04-19 11:04:898 INFO  BrowserSelector :21 - launching the  Chrome browser
+2020-04-19 11:04:384 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (89beed22b6e71533cd6bf3be066f0f09)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-19 11:04:217 INFO  LoginPage :25 - Getting text from [[ChromeDriver: chrome on WINDOWS (89beed22b6e71533cd6bf3be066f0f09)] -> xpath: //h1[@class='text-center']]
